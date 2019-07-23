@@ -1,0 +1,3 @@
+[submodule "submodules/polysemy"]
+	path = submodules/polysemy
+	url = https://github.com/polysemy-research/polysemy.git
